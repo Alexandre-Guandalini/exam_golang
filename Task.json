@@ -1,0 +1,5 @@
+[   
+    {"Description": "Faire les courses", "Bool":"false"}, 
+    {"Description": "Payer les factures", "Bool":"false"}, 
+    {"Description": "Aller à l'école", "Bool":"fasle"}  
+]
